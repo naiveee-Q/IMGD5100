@@ -6,4 +6,4 @@ It is supposed to be an RPG game design with a character walking on the map and 
 ### Problems
 When using println, the msg get from Arduino is not the string I directly send. I tried to add "/n" but failed. So I use numbers to transform messages and after using parse to turn it back, it works.
 ### Link
-https://www.youtube.com/watch?v=K4-xsWiJGVQ&feature=youtu.be
+https://youtu.be/1rNvKysR0Sw
